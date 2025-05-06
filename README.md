@@ -53,6 +53,6 @@ I'm aiming to become a professional **System Administrator** with strong fundame
 ## 📫 Let's Connect
 
 - GitHub: [github.com/daffalhafizh](https://github.com/daffalhafizh)
-- LinkedIn [LinkedIn daffa](https://www.linkedin.com/in/muhammad-daffa-alhafizh-874a31267
+- LinkedIn (https://www.linkedin.com/in/muhammad-daffa-alhafizh-874a31267
   utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 
