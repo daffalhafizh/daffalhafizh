@@ -9,8 +9,8 @@ I'm a **fresh graduate** from SMK TKJ with a strong passion for **IT** and **net
 - **Cloud**: Basic understanding of AWS and GCP
 
 ## 📂 Projects
-- **[Permira 2025](URL sudah tidak aktif)**: Deployment website and monitoring.
 - **[Web Profile NEVTIK](https://nevtik.org/)**: Deployment website and monitoring.
+- **[Permira 2025](URL sudah tidak aktif)**: Deployment website and monitoring.
 
 ## 🎯 Goal
 I'm looking to improve my skills in **cloud computing**, **cybersecurity**, and **network automation**. I'm also open to opportunities that will challenge and help me grow professionally.
